@@ -32,6 +32,11 @@ namespace UGPAndroid
 		{
 			UGP.BusinessLayer.Managers.UserManager.LoginUser ();
 		}
+
+		protected void NewUser ()
+		{
+
+		}
 	}
 }
 

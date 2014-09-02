@@ -11,13 +11,13 @@ namespace UGP.BusinessLayer.Managers
 
 		public static void LoginUser()
 		{
-			UserData ud = new UserData ();
+			DataAccessLayer.UserData ud = new DataAccessLayer.UserData ();
 			ud.LoginUser ();
 		}
 
 		public static void NewUser()
 		{
-			UserData ud = new UserData ();
+			DataAccessLayer.UserData ud = new DataAccessLayer.UserData ();
 			ud.NewUser ();
 		}
 	}

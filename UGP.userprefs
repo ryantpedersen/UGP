@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="UGPAndroid\Screens\LoginActivity.cs" Line="4" Column="4" />
+      <File FileName="Shared\BusinessLayer\UserManager.cs" Line="3" Column="3" />
+      <File FileName="Shared\DataAccessLayer\UserData.cs" Line="14" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Shared" expanded="True">
+            <Node name="BusinessLayer" expanded="True" />
+            <Node name="DataAccessLayer" expanded="True" />
+          </Node>
+          <Node name="UGPAndroid" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="ComponentReferenceFolder" selected="True" />
+            <Node name="Resources" expanded="True" />
+            <Node name="Screens" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UGPAndroid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

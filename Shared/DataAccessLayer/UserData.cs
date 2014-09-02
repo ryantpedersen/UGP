@@ -15,6 +15,8 @@ namespace UGP.DataAccessLayer.UserData
 
 		public void NewUser()
 		{
+			//Create new user with Parse
+
 		}
 	}
 }
